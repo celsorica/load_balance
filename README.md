@@ -16,6 +16,7 @@ Passo 2 - Execução
 Isso executar o programa passando o arquivo como parametro
 
 Compilação para Windows (Visual Studio 2019)
+--------------------------------------------
 
 Passo 1 - Iniciar terminal
 No Windows 10, clique em iniciar e digite : cmd
